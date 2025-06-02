@@ -6,5 +6,6 @@ Help navigating the Arctos resources:
  - [File an issue or seek help](https://github.com/ArctosDB/arctos/issues)
  - [Arctos in two pages](https://arctosdb.org/what-is-arctos/)
 
-[Arctos  - community website](https://arctosdb.org)
-[Arctos Collection Management System](https://arctos.database.museum/)
+:sunflower:[Arctos  - community website at Arctosdb.org](https://arctosdb.org)
+
+:globe_with_meridians:[Arctos Collection Management System](https://arctos.database.museum/)
